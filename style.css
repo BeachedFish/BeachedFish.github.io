@@ -1,0 +1,26 @@
+/* resume index's style sheet */
+
+body {
+	justify-content: center;
+}
+
+h1, div {
+	text-align: center;
+}
+
+hr {
+	height: 5px;
+	background-color: black;
+}
+
+/* Table CSS */
+
+
+th {
+	font-size: 20px;
+	padding: 32px;
+}
+
+.strong {
+	font-weight: bold;
+}
